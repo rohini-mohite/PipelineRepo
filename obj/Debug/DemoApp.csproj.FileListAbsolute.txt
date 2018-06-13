@@ -1,0 +1,6 @@
+E:\DemoApp\DemoApp\bin\DemoApp.dll.config
+E:\DemoApp\DemoApp\bin\DemoApp.dll
+E:\DemoApp\DemoApp\bin\DemoApp.pdb
+E:\DemoApp\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+E:\DemoApp\DemoApp\obj\Debug\DemoApp.dll
+E:\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
